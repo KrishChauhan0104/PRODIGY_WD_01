@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This is an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. This navigation have a fixed position and can be visible on all pages. In this we have used HTML to structure the menu, CSS to style it, and javascript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
